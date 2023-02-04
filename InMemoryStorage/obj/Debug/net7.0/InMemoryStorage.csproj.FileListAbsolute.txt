@@ -1,0 +1,24 @@
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.csproj.AssemblyReference.cache
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.AssemblyInfoInputs.cache
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.AssemblyInfo.cs
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.csproj.CoreCompileInputs.cache
+E:\Code\School\InMemoryStorage\InMemoryStorage\bin\Debug\net7.0\InMemoryStorage.deps.json
+E:\Code\School\InMemoryStorage\InMemoryStorage\bin\Debug\net7.0\InMemoryStorage.dll
+E:\Code\School\InMemoryStorage\InMemoryStorage\bin\Debug\net7.0\InMemoryStorage.pdb
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.dll
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\refint\InMemoryStorage.dll
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.pdb
+E:\Code\School\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\ref\InMemoryStorage.dll
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\bin\Debug\net7.0\InMemoryStorage.deps.json
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\bin\Debug\net7.0\InMemoryStorage.dll
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\bin\Debug\net7.0\InMemoryStorage.pdb
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.csproj.AssemblyReference.cache
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.AssemblyInfoInputs.cache
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.AssemblyInfo.cs
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.csproj.CoreCompileInputs.cache
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.dll
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\refint\InMemoryStorage.dll
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\InMemoryStorage.pdb
+F:\GIT Repos\InMemoryStorage\InMemoryStorage\obj\Debug\net7.0\ref\InMemoryStorage.dll
